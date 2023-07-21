@@ -55,7 +55,7 @@ A quick test to check if the markdown admonitions work in the GitHub readme.
 > [!IMPORTANT]  
 > Crucial information necessary for users to succeed.
 
-> [!WARNING]
+> [!WARNING]  
 > Critical content demanding immediate user attention due to potential risks.
 
 **With slashes as line breaks**
@@ -63,7 +63,7 @@ A quick test to check if the markdown admonitions work in the GitHub readme.
 > [!NOTE]\
 > Highlights information that users should take into account, even when skimming.
 
-> [!IMPORTANT]\  
+> [!IMPORTANT]\
 > Crucial information necessary for users to succeed.
 
 > [!WARNING]\
