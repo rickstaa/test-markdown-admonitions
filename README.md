@@ -79,3 +79,8 @@ A quick test to check if the markdown admonitions work in the GitHub readme.
 
 > [!WARNING]<br>
 > Critical content demanding immediate user attention due to potential risks.
+
+## Other test
+
+> [!NOTE]\
+> Not working in my repo, an extreamly long text an extreamly long text an extreamly long text an extreamly long text an extreamly long text an extreamly long text an extreamly long text an extreamly long text an extreamly long text an extreamly long text an extreamly long text an extreamly long text an extreamly long text an extreamly long text an extreamly long text an extreamly long text an extreamly long text an extreamly long text an extreamly long text an extreamly long text an extreamly long text an extreamly long text an extreamly long text an extreamly long text an extreamly long text an extreamly long text an extreamly long text an extreamly long text an extreamly long text an extreamly long text an extreamly long text an extreamly long text, WHY IS IT ONLY WORKING HERE?
